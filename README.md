@@ -5,5 +5,5 @@
 A little about me:
 
 - :robot: In love codding!
-- :beach_umbrella:  IA since 2012!
+- :beach_umbrella:  Artificial Intelligence since 2012!
 - :construction_worker_man:  I'm engineer too. Let's do something great together!
